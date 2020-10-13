@@ -33,6 +33,20 @@ To set up an environment in Visual Studio Code on Windows:
 
 This program utilizes the [Regex](https://docs.python.org/3/library/re.html) and [Random](https://docs.python.org/3/library/random.html) Python modules.
 
+### Usage
+
+Example of Running Program:
+
+![Initial Startup](https://github.com/dcmoss87/PythonPasswordGenerator/blob/main/Usage1.PNG)
+
+Example of Creating a Random Password by Pressing Enter:
+
+![Enter](https://github.com/dcmoss87/PythonPasswordGenerator/blob/main/Usage2Enter.PNG)
+
+Example of Incorrect Password Messages:
+
+![Incorrect](https://github.com/dcmoss87/PythonPasswordGenerator/blob/main/Usage3IncorrectInput.PNG)
+
 ## Author
 
 * **Derek Moss** - [dcmoss87](https://github.com/dcmoss87)
