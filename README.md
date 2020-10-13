@@ -7,7 +7,7 @@ This is a simple program to enable a user to generate a password.
 ## Table of Contents
 
 1. [Installation](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#installation)
-2. [Dependencies]
+2. [Dependencies](https://github.com/dcmoss87/PythonPasswordGenerator/blob/main/README.md#dependencies)
 3. [Author](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#author)
 4. [License](https://github.com/dcmoss87/Python-List-Manipulation/blob/main/README.md#license)
 
