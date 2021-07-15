@@ -51,7 +51,7 @@ def chkTrue(bool2, bool3, bool4, bool5, bool6):
       bool1 = False
 
 bool1 = True
-randPass = ['a','b','c','A','B','C', 1, 2, 3,'#','%','$','@','Eric']
+randPass = ['a','b','c','A','B','C', 1, 2, 3,'#','%','$','@']
 finalPass = ''
 
 if __name__ == "__main__":
